@@ -258,6 +258,6 @@ user_input_31 = input()
 while user_input_31 != "yes":
     user_input_31 = input()
     print("You feel a pang of guilt as the thought hits you. He doesn't have anyone, and you've always waned to have a dog. Do you want to keep him?")
-print("You stroke the dogs head as you reach your decision. You'll need to go shopping soon to get him some stuff, but he'll be fine for now. He wiggles a bit in his sleep, a leg sticking out and ficking aroung, like he's running.")
+print("You stroke the dogs head as you reach your decision. You'll need to go shopping soon to get him some stuff, but he'll be fine for now. He wiggles a bit in his sleep, a leg sticking out and flicking aroung, like he's running.")
 print("His eyes flick oepn after a moment. They meet yours, and his mouth splits into a wide grin, with his tounge hanging out. You can't help but laugh and smile back at him. You couldn't be happier to have a friend to come back to every day.")
 print("The end! Thank you for playing our game!")
